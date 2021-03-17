@@ -1,0 +1,2 @@
+# projectP
+learning Python
